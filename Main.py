@@ -22,7 +22,7 @@ while True:
             pygame.quit()
             exit()
     pygame.draw.rect(tela, (255, 0, 0), (x, y, 50, 62))
-    if y >= altura:
+    if y >= altura: # fiz algumas alterações aqui, para mover o 'Player'.
         y = 0
 
     y = y + 1
