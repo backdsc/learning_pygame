@@ -13,7 +13,7 @@ Este repositório registra minha jornada de aprendizado e experimentos com jogos
 
 ✨ "Cada pequeno projeto é um passo em direção a algo maior."
 
-# 🕹️ Atualização v2
+🕹️ Atualização v2
 - Adicionado quadrado azul (NPC/item).
 - Implementada colisão: ao encostar no azul, ele muda de posição aleatória na tela.
 
