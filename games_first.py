@@ -7,7 +7,7 @@ from random import randint
 pygame.font.init()
 pygame.init()
 
-pygame.mixer.music.set_volume(0.05)
+pygame.mixer.music.set_volume(0.7)
 musica_defundo = pygame.mixer_music.load('Jazz at Mladost Club - No More Blues.mp3')
 pygame.mixer_music.play(-1)
 
